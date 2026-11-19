@@ -6,3 +6,5 @@ Company address until summer of 2026: 'Pleven' St. 22, Sliven, Bulgaria, post co
 Company address after summer of 2026: 'Dame Gruev' 15, entrance B, floor 5, apartment 5; city: Sliven; country: Bulgaria.
 
 Company PIC|UIC: 200795472 
+
+Year of establishment: 2009.
